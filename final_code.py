@@ -121,8 +121,6 @@ while True:
         print(f'''These are the information about your flight: 
         {connections.iloc[information - 1]}''')
 
-    #elif a == "3":
-
     else:
         print('You selected an invalid function, you must enter a number between 0 and 2!')
     print(" ")
